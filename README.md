@@ -1,7 +1,5 @@
-**Header**
-================
 
-sherjama
+##sherjama
 Frontend Developer
 
 **Skills**
