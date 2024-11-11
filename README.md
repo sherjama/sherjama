@@ -1,6 +1,6 @@
 
-##sherjama
-Frontend Developer
+**Sherjama**
+**Frontend Developer**
 
 **Skills**
 ------------
