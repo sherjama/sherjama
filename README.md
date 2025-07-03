@@ -1,40 +1,24 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-**Sherjama**
-**Frontend Developer**
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
-**Skills**
-------------
+## 👋 Hi, I'm Sherjama
+I'm a passionate Full-Stack Web Developer specialized in the MERN Stack (MongoDB, Express.js, React.js, Node.js). I love building scalable web applications, modern UIs, and solving real-world problems through clean and efficient code.
 
-* Programming languages: JavaScript, HTML/CSS
-* Technologies: React, Redux-toolkit , React-router , React-hook-form , tailwindCss , Appwrite
-* Tools: Git, VSCode
+## 🚀 Tech Stack & Skills
+- Frontend: React.js, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript (ES6+)
 
-**Projects**
--------------
+- Backend: Node.js, Express.js, RESTful APIs, JWT Auth
 
-* **Microsoft Todo**: A simple todo list app built with React. [GitHub Repository]([https://github.com/johndoe/todo-list-app](https://github.com/sherjama/Todo-project)) [Live Demo](https://todo-project-beryl-theta.vercel.app/)
-* **Pinterest Clone with maximum functionality**: A personal website built with React, Redux-toolkit, and Appwrite. [GitHub Repository]([https://github.com/sherjama/pinterest](https://github.com/sherjama/pinterest_project)) [Live Demo](https://sherjama-pinterest.vercel.app/)
+- Database: MongoDB, Mongoose
 
-**Social Media**
-----------------
+- Version Control: Git, GitHub
 
-* LinkedIn: [sherjama]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/sher-jama-khan-90a080305/))
-* GitHub: [sherjama](https://github.com/sherjama)
+- Tools & Others: Postman, VS Code, NPM, React Hook Form, Cloudinary, Vite
+## Get in touch 
 
-
-Explore my projects, follow me on social media, and let's collaborate on a project together!
-
-<!--
-**sherjama/sherjama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Instagram](https://github.com/sherjama)
+- [LinkedIn](https://www.linkedin.com/in/sher-jama-khan-90a080305/)
